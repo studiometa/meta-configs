@@ -1,0 +1,26 @@
+{
+  "name": "@studiometa/meta-configs",
+  "version": "1.0.0",
+  "description": "A meta package to install all of Studio Meta's config packages.",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiometa/meta-configs.git"
+  },
+  "author": "Studio Meta <agence@studiometa.fr> (https://www.studiometa.fr/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/studiometa/meta-configs/issues"
+  },
+  "homepage": "https://github.com/studiometa/meta-configs#readme",
+  "dependencies": {
+    "@studiometa/browserslist-config": "^1.0.1",
+    "@studiometa/eslint-config": "^2.1.3",
+    "@studiometa/prettier-config": "^2.0.1",
+    "@studiometa/stylelint-config": "^2.0.0",
+    "@studiometa/tailwind-config": "^1.0.2",
+    "@studiometa/webpack-config": "^2.7.2"
+  }
+}
