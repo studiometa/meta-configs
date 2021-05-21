@@ -1,6 +1,6 @@
 {
   "name": "@studiometa/meta-configs",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A meta package to install all of Studio Meta's config packages.",
   "publishConfig": {
     "access": "public"
